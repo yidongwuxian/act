@@ -1,0 +1,16 @@
+.tg-itouzi-jiedai{ width: 100%; height: 450px; background: url(../img/ladding_10.png) repeat; overflow: hidden;}
+.tg-itouzi-jiedai .cn{ position: relative; width: 1005px; margin: 0 auto; overflow: hidden;}
+.tg-itouzi-jiedai h2{ font-size: 24px; color: #666; font-weight: bold;}
+.tg-itouzi-jiedai .cn ul li{ float: left; width: 249px; height: 50px; line-height: 50px; text-align: center; background-color: #f7f7f7; border: 1px solid #e4e4e4; border-right: none; cursor: pointer;}
+.tg-itouzi-jiedai .cn ul li span{ font-size: 16px; color: #666; }
+.tg-itouzi-jiedai .cn ul li:last-child{ border-right: 1px solid #e4e4e4;}
+.tg-itouzi-jiedai .cn ul li.cur{ background-color: #fff; border-top: 2px solid #e25353; height: 49px; line-height: 48px; border-bottom: none; cursor: pointer;}
+#tabScoll{ margin-top: 20px;}
+#tabBox div{ display: none; width: 998px; height: 304px; border: 1px solid #e4e4e4; border-top: none; background-color: white; }
+#tabBox .itemCur{ display: block; width: 998px; height: 304px; border: 1px solid #e4e4e4; border-top: none; background-color: white; }
+#tabBox div p{ float: left; width: 607px; margin: 40px 0 0 38px;}
+#tabBox div p span{ display: block; margin-bottom: 20px; font-size: 16px; color: #666;}
+.itemTab1{ position:absolute; top:174px; right: 59px; width: 408px; height: 174px; background: url(../img/you1.jpg) no-repeat;}
+.itemTab2{ position:absolute; top:154px; right: 21px; width: 331px; height: 222px; background: url(../img/you2.jpg) no-repeat;}
+.itemTab3{ position:absolute; top:200px; right: 50px; width: 395px; height: 123px; background: url(../img/you3.jpg) no-repeat;}
+.itemTab4{ position:absolute; top:156px; right: 80px; width: 324px; height: 219px; background: url(../img/you4.jpg) no-repeat;}
